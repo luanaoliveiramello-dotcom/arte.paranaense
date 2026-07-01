@@ -1,1 +1,12 @@
-
+body{
+background-color: #004D41;
+color: #B6FAA0;
+}
+header{
+    background-color: darkred;
+    color: #000;
+}
+main{
+    background-color: dimgray;
+    color: navy;
+}
