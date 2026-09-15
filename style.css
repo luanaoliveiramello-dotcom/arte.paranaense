@@ -10,3 +10,9 @@ main{
     background-color: dimgray;
     color: navy;
 }
+button{
+    background-color: maroon;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+}
