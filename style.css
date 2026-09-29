@@ -16,3 +16,7 @@ button{
     border: none;
     padding: 10px 15px;
 }
+.curtir
+  display:block;
+  with:fit-content;
+  margi:20px auto
